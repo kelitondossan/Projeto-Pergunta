@@ -1,0 +1,18 @@
+body{
+    background-color: cornsilk;
+}
+/*tirar cor de fundo de uma imagem sem ter que usar figma  mix-blend-mode:exclusion;*/
+img{
+    width: 200px;
+    height: 150px;
+    mix-blend-mode:exclusion;
+   
+}
+
+#formulario-pergunta{
+    margin-top:5vh ;
+}
+
+hr{
+   display: none;
+}
